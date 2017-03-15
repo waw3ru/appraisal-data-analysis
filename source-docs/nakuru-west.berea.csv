@@ -1,0 +1,100 @@
+﻿category,question,sub-question,answer,gender,group,age
+1,1,A blessing,2,male,PCMF,32
+1,1,Encouraging,1,male,PCMF,32
+1,1,Educative,2,male,PCMF,32
+1,2,Relevant,1,male,PCMF,32
+1,2,Not Useful,2,male,PCMF,32
+1,2,Well Prepared,2,male,PCMF,32
+1,2,Boring,2,male,PCMF,32
+1,3,Good,1,male,PCMF,32
+1,3,Edifying,2,male,PCMF,32
+1,4,,3,male,PCMF,32
+2,5,,2,male,PCMF,32
+2,6,,2,male,PCMF,32
+2,7,,3,male,PCMF,32
+2,8,,1,male,PCMF,32
+2,9,,1,male,PCMF,32
+2,10,Widows,2,male,PCMF,32
+2,10,Widowers,2,male,PCMF,32
+2,10,Retirees,2,male,PCMF,32
+2,10,Single Parents,2,male,PCMF,32
+2,10,other,2,male,PCMF,32
+2,11,,2,male,PCMF,32
+2,12,,1,male,PCMF,32
+2,13,,3,male,PCMF,32
+2,14,Christian education,1,male,PCMF,32
+2,14,Health Ministry,2,male,PCMF,32
+2,14,Deaf Ministry,2,male,PCMF,32
+2,14,Evangelism,2,male,PCMF,32
+2,14,Children Ministry,2,male,PCMF,32
+2,14,Choir Ministry,1,male,PCMF,32
+2,14,Ushering Ministry,2,male,PCMF,32
+2,15,,2,male,PCMF,32
+2,16,,2,male,PCMF,32
+2,17,,,male,PCMF,32
+1,1,A blessing,2,female,Praise and worship,32
+1,1,Encouraging,1,female,Praise and worship,32
+1,1,Educative,2,female,Praise and worship,32
+1,2,Relevant,2,female,Praise and worship,32
+1,2,Not Useful,2,female,Praise and worship,32
+1,2,Well Prepared,1,female,Praise and worship,32
+1,2,Boring,2,female,Praise and worship,32
+1,3,Good,1,female,Praise and worship,32
+1,3,Edifying,2,female,Praise and worship,32
+1,4,,2,female,Praise and worship,32
+2,5,,3,female,Praise and worship,32
+2,6,,3,female,Praise and worship,32
+2,7,,3,female,Praise and worship,32
+2,8,,2,female,Praise and worship,32
+2,9,,1,female,Praise and worship,32
+2,10,Widows,3,female,Praise and worship,32
+2,10,Widowers,3,female,Praise and worship,32
+2,10,Retirees,3,female,Praise and worship,32
+2,10,Single Parents,3,female,Praise and worship,32
+2,10,other,3,female,Praise and worship,32
+2,11,,2,female,Praise and worship,32
+2,12,,2,female,Praise and worship,32
+2,13,,3,female,Praise and worship,32
+2,14,Christian education,1,female,Praise and worship,32
+2,14,Health Ministry,2,female,Praise and worship,32
+2,14,Deaf Ministry,3,female,Praise and worship,32
+2,14,Evangelism,2,female,Praise and worship,32
+2,14,Children Ministry,3,female,Praise and worship,32
+2,14,Choir Ministry,3,female,Praise and worship,32
+2,14,Ushering Ministry,2,female,Praise and worship,32
+2,15,,2,female,Praise and worship,32
+2,16,,3,female,Praise and worship,32
+2,17,,,female,Praise and worship,32
+1,1,A blessing,2,female,women's guild,
+1,1,Encouraging,2,female,women's guild,
+1,1,Educative,1,female,women's guild,
+1,2,Relevant,2,female,women's guild,
+1,2,Not Useful,2,female,women's guild,
+1,2,Well Prepared,1,female,women's guild,
+1,2,Boring,2,female,women's guild,
+1,3,Good,1,female,women's guild,
+1,3,Edifying,2,female,women's guild,
+1,4,,2,female,women's guild,
+2,5,,,female,women's guild,
+2,6,,1,female,women's guild,
+2,7,,3,female,women's guild,
+2,8,,2,female,women's guild,
+2,9,,1,female,women's guild,
+2,10,Widows,3,female,women's guild,
+2,10,Widowers,3,female,women's guild,
+2,10,Retirees,2,female,women's guild,
+2,10,Single Parents,3,female,women's guild,
+2,10,other,2,female,women's guild,
+2,11,,1,female,women's guild,
+2,12,,2,female,women's guild,
+2,13,,1,female,women's guild,
+2,14,Christian education,1,female,women's guild,
+2,14,Health Ministry,1,female,women's guild,
+2,14,Deaf Ministry,1,female,women's guild,
+2,14,Evangelism,1,female,women's guild,
+2,14,Children Ministry,1,female,women's guild,
+2,14,Choir Ministry,2,female,women's guild,
+2,14,Ushering Ministry,1,female,women's guild,
+2,15,,2,female,women's guild,
+2,16,,2,female,women's guild,
+2,17,,,female,women's guild,
