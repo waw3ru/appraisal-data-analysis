@@ -37,6 +37,7 @@ let munchData = (dataArr: any[]) => {
         else {
             model[ data[0] ].next[ data[1] ] = {
                 display: DATA_SOURCE.question[ data[1]-1 ].que,
+                choice_types: CHOICES[DATA_SOURCE.question[ data[1]-1 ].choices],
                 hasSubQuestions: true,
                 next: {}
             };
