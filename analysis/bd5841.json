@@ -1,1 +1,196 @@
-{"nakuru-west::judea":{"4":{"Good":8,"Fair":7,"Unsatisfactory":1,"totals-responses":16},"5":{"Good":13,"Fair":2,"Unsatisfactory":0,"totals-responses":15},"6":{"Good":4,"Fair":8,"Unsatisfactory":2,"totals-responses":15},"7":{"Good":8,"Fair":5,"Unsatisfactory":2,"totals-responses":15},"8":{"Good":8,"Fair":6,"Unsatisfactory":0,"totals-responses":15},"9":{"Good":11,"Fair":4,"Unsatisfactory":0,"totals-responses":15},"11":{"Good":15,"Fair":0,"Unsatisfactory":0,"totals-responses":15},"12":{"Good":12,"Fair":0,"Unsatisfactory":0,"totals-responses":15},"13":{"Good":7,"Fair":6,"Unsatisfactory":0,"totals-responses":15},"15":{"Good":7,"Fair":5,"Unsatisfactory":1,"totals-responses":15},"16":{"Good":6,"Fair":6,"Unsatisfactory":1,"totals-responses":15},"1/a blessing":{"Yes":13,"Undecided":3,"No":0,"totals-responses":16},"1/encouraging":{"Yes":6,"Undecided":10,"No":0,"totals-responses":16},"1/educative":{"Yes":3,"Undecided":13,"No":0,"totals-responses":16},"2/relevant":{"Yes":4,"Undecided":12,"No":0,"totals-responses":16},"2/not useful":{"Yes":0,"Undecided":16,"No":0,"totals-responses":16},"2/well prepared":{"Yes":13,"Undecided":3,"No":0,"totals-responses":16},"2/boring":{"Yes":1,"Undecided":15,"No":0,"totals-responses":16},"3/good":{"Yes":12,"Undecided":4,"No":0,"totals-responses":16},"3/edifying":{"Yes":6,"Undecided":10,"No":0,"totals-responses":16},"10/widows":{"Good":7,"Fair":7,"Unsatisfactory":0,"totals-responses":15},"10/widowers":{"Good":5,"Fair":9,"Unsatisfactory":0,"totals-responses":15},"10/retirees":{"Good":10,"Fair":4,"Unsatisfactory":0,"totals-responses":15},"10/single parents":{"Good":4,"Fair":9,"Unsatisfactory":1,"totals-responses":15},"10/other":{"Good":4,"Fair":10,"Unsatisfactory":0,"totals-responses":15},"14/christian education":{"Good":9,"Fair":3,"Unsatisfactory":1,"totals-responses":15},"14/health ministry":{"Good":9,"Fair":4,"Unsatisfactory":0,"totals-responses":15},"14/deaf ministry":{"Good":9,"Fair":4,"Unsatisfactory":0,"totals-responses":15},"14/evangelism":{"Good":7,"Fair":6,"Unsatisfactory":0,"totals-responses":15},"14/children ministry":{"Good":11,"Fair":2,"Unsatisfactory":0,"totals-responses":15},"14/choir ministry":{"Good":9,"Fair":3,"Unsatisfactory":1,"totals-responses":15},"14/ushering ministry":{"Good":9,"Fair":3,"Unsatisfactory":1,"totals-responses":15}}}
+{
+    "nakuru-west::judea": {
+        "4": {
+            "Good": 8,
+            "Fair": 7,
+            "Unsatisfactory": 1,
+            "totals-responses": 16
+        },
+        "5": {
+            "Good": 13,
+            "Fair": 2,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "6": {
+            "Good": 4,
+            "Fair": 8,
+            "Unsatisfactory": 2,
+            "totals-responses": 15
+        },
+        "7": {
+            "Good": 8,
+            "Fair": 5,
+            "Unsatisfactory": 2,
+            "totals-responses": 15
+        },
+        "8": {
+            "Good": 8,
+            "Fair": 6,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "9": {
+            "Good": 11,
+            "Fair": 4,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "11": {
+            "Good": 15,
+            "Fair": 0,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "12": {
+            "Good": 12,
+            "Fair": 0,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "13": {
+            "Good": 7,
+            "Fair": 6,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "15": {
+            "Good": 7,
+            "Fair": 5,
+            "Unsatisfactory": 1,
+            "totals-responses": 15
+        },
+        "16": {
+            "Good": 6,
+            "Fair": 6,
+            "Unsatisfactory": 1,
+            "totals-responses": 15
+        },
+        "1/a blessing": {
+            "Yes": 13,
+            "Undecided": 3,
+            "No": 0,
+            "totals-responses": 16
+        },
+        "1/encouraging": {
+            "Yes": 6,
+            "Undecided": 10,
+            "No": 0,
+            "totals-responses": 16
+        },
+        "1/educative": {
+            "Yes": 3,
+            "Undecided": 13,
+            "No": 0,
+            "totals-responses": 16
+        },
+        "2/relevant": {
+            "Yes": 4,
+            "Undecided": 12,
+            "No": 0,
+            "totals-responses": 16
+        },
+        "2/not useful": {
+            "Yes": 0,
+            "Undecided": 16,
+            "No": 0,
+            "totals-responses": 16
+        },
+        "2/well prepared": {
+            "Yes": 13,
+            "Undecided": 3,
+            "No": 0,
+            "totals-responses": 16
+        },
+        "2/boring": {
+            "Yes": 1,
+            "Undecided": 15,
+            "No": 0,
+            "totals-responses": 16
+        },
+        "3/good": {
+            "Yes": 12,
+            "Undecided": 4,
+            "No": 0,
+            "totals-responses": 16
+        },
+        "3/edifying": {
+            "Yes": 6,
+            "Undecided": 10,
+            "No": 0,
+            "totals-responses": 16
+        },
+        "10/widows": {
+            "Good": 7,
+            "Fair": 7,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "10/widowers": {
+            "Good": 5,
+            "Fair": 9,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "10/retirees": {
+            "Good": 10,
+            "Fair": 4,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "10/single parents": {
+            "Good": 4,
+            "Fair": 9,
+            "Unsatisfactory": 1,
+            "totals-responses": 15
+        },
+        "10/other": {
+            "Good": 4,
+            "Fair": 10,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "14/christian education": {
+            "Good": 9,
+            "Fair": 3,
+            "Unsatisfactory": 1,
+            "totals-responses": 15
+        },
+        "14/health ministry": {
+            "Good": 9,
+            "Fair": 4,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "14/deaf ministry": {
+            "Good": 9,
+            "Fair": 4,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "14/evangelism": {
+            "Good": 7,
+            "Fair": 6,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "14/children ministry": {
+            "Good": 11,
+            "Fair": 2,
+            "Unsatisfactory": 0,
+            "totals-responses": 15
+        },
+        "14/choir ministry": {
+            "Good": 9,
+            "Fair": 3,
+            "Unsatisfactory": 1,
+            "totals-responses": 15
+        },
+        "14/ushering ministry": {
+            "Good": 9,
+            "Fair": 3,
+            "Unsatisfactory": 1,
+            "totals-responses": 15
+        }
+    }
+}
