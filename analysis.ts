@@ -4,13 +4,13 @@
 
 import * as _ from 'lodash'
 import * as fs from 'fs'
+import * as crypto from 'crypto';
+import { currentFile } from './constants';
 
 //#note: extract data from the munched json files 
-let filenames: string[] = fs.readdirSync('analysed-docs');
+// let filenames: string[] = fs.readdirSync('analysed-docs');
 let dataObj = {}
-filenames.forEach(data => {
-    dataObj[data] = JSON.parse(fs.readFileSync(`analysed-docs/${data}`, { encoding: 'utf-8' }));
-});
+dataObj[currentFile] = JSON.parse(fs.readFileSync(`analysed-docs/${currentFile}.json`, { encoding: 'utf-8' }));
 
 //#note: format the data in order to show congregation/district instead of filename as the master key
 let churchAppraisal = {};
@@ -63,8 +63,8 @@ for (let data in churchAppraisal) {
 }
 
 //#note: output all files to as json
-let analysedData = JSON.stringify(finalCopy);
-fs.writeFileSync(`analysis/consolidated_results.json`, analysedData);
+// let analysedData = JSON.stringify(finalCopy);
+// fs.writeFileSync(`analysis/consolidated_results.json`, analysedData);
 
 let analyse = (input: any) => {
     let output: any = {};
@@ -88,7 +88,9 @@ let analyse = (input: any) => {
         });
     }
 
-    console.log(output);
+    fs.writeFileSync(`analysis/${crypto.randomBytes(3).toString('hex')}.json`, JSON.stringify(output), {
+        encoding: 'utf-8'
+    });
 }
 
 analyse(finalCopy);

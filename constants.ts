@@ -89,3 +89,28 @@ export const APP: IAPP = {
 };
 
 // console.log(DATA_SOURCE.question.length) // #testing
+
+export const currentFile = 'nakuru-west.unity.csv';
+/*
+[ 'mwangaza.eden.csv',
+  'mwangaza.githiga.csv',
+  'mwangaza.kiwanja.csv',
+  'mwangaza.mlima.csv',
+  'mwangaza.zaburi.csv',
+  'nakuru-west.baraka.csv',
+  'nakuru-west.berea.csv',
+  'nakuru-west.bethany.csv'
+  'nakuru-west.bethel.csv',
+  'nakuru-west.bethlehem.cs
+  'nakuru-west.bethsaida.cs
+  'nakuru-west.emmanuel.csv
+  'nakuru-west.galilee.csv'
+  'nakuru-west.jerusalem.cs
+  'nakuru-west.judea.csv',
+  'nakuru-west.macedonia.cs
+  'nakuru-west.nazareth.csv
+  'nakuru-west.neema.csv',
+  'nakuru-west.shalom.csv',
+  'nakuru-west.town.csv',
+  'nakuru-west.unity.csv' ]
+*/

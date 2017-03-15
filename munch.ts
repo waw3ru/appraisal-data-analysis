@@ -5,7 +5,7 @@
 import * as Parser from 'csv-parse';
 import * as _ from 'lodash';
 import * as fs from 'fs';
-import { DATA_SOURCE, APP, ICHOICES, CHOICES, IDATA_SOURCE } from './constants';
+import { DATA_SOURCE, APP, ICHOICES, CHOICES, IDATA_SOURCE, currentFile } from './constants';
 
 
 let sourceDir = `source-docs/`;
@@ -72,30 +72,28 @@ let munchData = (dataArr: any[]) => {
  * @docs: parse the csv file
  */
 let csvParser = Parser({ delimiter: ',' });
-let parser = () => {
+let parser = (filename: string) => {
     let cache: any[] = [];
     let cursor: any;   
 
     //#note: parse data
-    fs.readdirSync(sourceDir).forEach((file, index) => { 
-        fs
-        .createReadStream(`${sourceDir}/${file}`)
-        .pipe(csvParser)
-        .on('readable', () => {
-            cache.push(csvParser.read());
-        })
-        .on('error', (err: any) => {
-            console.error(err);
-        })
-        .on('finish', () => {
-            cache.splice(0,1);
-            cache.splice(cache.length-1,1);
+    fs
+    .createReadStream(`${sourceDir}/${filename}`)
+    .pipe(csvParser)
+    .on('readable', () => {
+        cache.push(csvParser.read());
+    })
+    .on('error', (err: any) => {
+        console.error(err);
+    })
+    .on('finish', () => {
+        cache.splice(0,1);
+        cache.splice(cache.length-1,1);
 
-            //#note: output the munched data to a file 
-            let analysedData = JSON.stringify(munchData(cache));
-            fs.writeFileSync(`${dist}/${file}.json`, analysedData);
-        });
+        //#note: output the munched data to a file 
+        let analysedData = JSON.stringify(munchData(cache));
+        fs.writeFileSync(`${dist}/${filename}.json`, analysedData);
     });
 }
 
-parser();
+parser(currentFile);
