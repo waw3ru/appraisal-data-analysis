@@ -67,10 +67,6 @@ let munchData = (dataArr: any[]) => {
     return model;
 }
 
-let outputToFile = () => {
-    
-};
-
 /**
  * @docs: parse the csv file
  */
