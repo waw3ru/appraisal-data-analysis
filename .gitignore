@@ -1,5 +1,4 @@
 node_modules/
-analysed_docs/
 xlsx/
 **/*.js
 **/*.map
