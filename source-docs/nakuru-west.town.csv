@@ -1,0 +1,859 @@
+category,question,sub-question,answer,age,gender,group
+1,1,A blessing,1,41,female,
+1,1,Encouraging,1,41,female,
+1,1,Educative,1,41,female,
+1,2,Relevant,1,41,female,
+1,2,Not Useful,2,41,female,
+1,2,Well Prepared,1,41,female,
+1,2,Boring,2,41,female,
+1,3,Good,1,41,female,
+1,3,Edifying,2,41,female,
+1,4,,2,41,female,
+2,5,,1,41,female,
+2,6,,2,41,female,
+2,7,,2,41,female,
+2,8,,2,41,female,
+2,9,,1,41,female,
+2,10,Widows,2,41,female,
+2,10,Widowers,2,41,female,
+2,10,Retirees,2,41,female,
+2,10,Single Parents,2,41,female,
+2,10,other,2,41,female,
+2,11,,1,41,female,
+2,12,,2,41,female,
+2,13,,1,41,female,
+2,14,Christian education,1,41,female,
+2,14,Health Ministry,2,41,female,
+2,14,Deaf Ministry,2,41,female,
+2,14,Evangelism,1,41,female,
+2,14,Children Ministry,2,41,female,
+2,14,Choir Ministry,2,41,female,
+2,14,Ushering Ministry,2,41,female,
+2,15,,2,41,female,
+2,16,,2,41,female,
+2,17,,,41,female,
+1,1,A blessing,1,50,female,womens' guild
+1,1,Encouraging,2,50,female,womens' guild
+1,1,Educative,2,50,female,womens' guild
+1,2,Relevant,1,50,female,womens' guild
+1,2,Not Useful,2,50,female,womens' guild
+1,2,Well Prepared,2,50,female,womens' guild
+1,2,Boring,2,50,female,womens' guild
+1,3,Good,1,50,female,womens' guild
+1,3,Edifying,2,50,female,womens' guild
+1,4,,2,50,female,womens' guild
+2,5,,1,50,female,womens' guild
+2,6,,2,50,female,womens' guild
+2,7,,2,50,female,womens' guild
+2,8,,2,50,female,womens' guild
+2,9,,2,50,female,womens' guild
+2,10,Widows,2,50,female,womens' guild
+2,10,Widowers,2,50,female,womens' guild
+2,10,Retirees,2,50,female,womens' guild
+2,10,Single Parents,2,50,female,womens' guild
+2,10,other,2,50,female,womens' guild
+2,11,,2,50,female,womens' guild
+2,12,,2,50,female,womens' guild
+2,13,,3,50,female,womens' guild
+2,14,Christian education,2,50,female,womens' guild
+2,14,Health Ministry,3,50,female,womens' guild
+2,14,Deaf Ministry,1,50,female,womens' guild
+2,14,Evangelism,3,50,female,womens' guild
+2,14,Children Ministry,2,50,female,womens' guild
+2,14,Choir Ministry,2,50,female,womens' guild
+2,14,Ushering Ministry,2,50,female,womens' guild
+2,15,,2,50,female,womens' guild
+2,16,,1,50,female,womens' guild
+2,17,,,50,female,womens' guild
+1,1,A blessing,1,,,
+1,1,Encouraging,1,46,female,christian education
+1,1,Educative,2,46,female,christian education
+1,2,Relevant,1,46,female,christian education
+1,2,Not Useful,3,46,female,christian education
+1,2,Well Prepared,1,46,female,christian education
+1,2,Boring,3,46,female,christian education
+1,3,Good,1,46,female,christian education
+1,3,Edifying,1,46,female,christian education
+1,4,,1,46,female,christian education
+2,5,,1,46,female,christian education
+2,6,,2,46,female,christian education
+2,7,,2,46,female,christian education
+2,8,,1,46,female,christian education
+2,9,,1,46,female,christian education
+2,10,Widows,2,46,female,christian education
+2,10,Widowers,3,46,female,christian education
+2,10,Retirees,3,46,female,christian education
+2,10,Single Parents,2,46,female,christian education
+2,10,other,2,46,female,christian education
+2,11,,1,46,female,christian education
+2,12,,1,46,female,christian education
+2,13,,2,46,female,christian education
+2,14,Christian education,1,46,female,christian education
+2,14,Health Ministry,2,46,female,christian education
+2,14,Deaf Ministry,1,46,female,christian education
+2,14,Evangelism,2,46,female,christian education
+2,14,Children Ministry,1,46,female,christian education
+2,14,Choir Ministry,1,46,female,christian education
+2,14,Ushering Ministry,1,46,female,christian education
+2,15,,1,46,female,christian education
+2,16,,2,46,female,christian education
+2,17,,,46,female,christian education
+1,1,A blessing,1,49,female,womens' guild
+1,1,Encouraging,1,49,female,womens' guild
+1,1,Educative,1,49,female,womens' guild
+1,2,Relevant,1,49,female,womens' guild
+1,2,Not Useful,2,49,female,womens' guild
+1,2,Well Prepared,1,49,female,womens' guild
+1,2,Boring,2,49,female,womens' guild
+1,3,Good,1,49,female,womens' guild
+1,3,Edifying,1,49,female,womens' guild
+1,4,,2,49,female,womens' guild
+2,5,,1,49,female,womens' guild
+2,6,,2,49,female,womens' guild
+2,7,,2,49,female,womens' guild
+2,8,,1,49,female,womens' guild
+2,9,,1,49,female,womens' guild
+2,10,Widows,2,49,female,womens' guild
+2,10,Widowers,2,49,female,womens' guild
+2,10,Retirees,2,49,female,womens' guild
+2,10,Single Parents,2,49,female,womens' guild
+2,10,other,2,49,female,womens' guild
+2,11,,1,49,female,womens' guild
+2,12,,1,49,female,womens' guild
+2,13,,2,49,female,womens' guild
+2,14,Christian education,1,49,female,womens' guild
+2,14,Health Ministry,1,49,female,womens' guild
+2,14,Deaf Ministry,2,49,female,womens' guild
+2,14,Evangelism,2,49,female,womens' guild
+2,14,Children Ministry,1,49,female,womens' guild
+2,14,Choir Ministry,1,49,female,womens' guild
+2,14,Ushering Ministry,1,49,female,womens' guild
+2,15,,2,49,female,womens' guild
+2,16,,2,49,female,womens' guild
+2,17,,,49,female,womens' guild
+1,1,A blessing,1,53,female,womens' guild
+1,1,Encouraging,1,53,female,womens' guild
+1,1,Educative,1,53,female,womens' guild
+1,2,Relevant,1,53,female,womens' guild
+1,2,Not Useful,3,53,female,womens' guild
+1,2,Well Prepared,1,53,female,womens' guild
+1,2,Boring,3,53,female,womens' guild
+1,3,Good,1,53,female,womens' guild
+1,3,Edifying,3,53,female,womens' guild
+1,4,,2,53,female,womens' guild
+2,5,,2,53,female,womens' guild
+2,6,,2,53,female,womens' guild
+2,7,,1,53,female,womens' guild
+2,8,,1,53,female,womens' guild
+2,9,,1,53,female,womens' guild
+2,10,Widows,1,53,female,womens' guild
+2,10,Widowers,2,53,female,womens' guild
+2,10,Retirees,2,53,female,womens' guild
+2,10,Single Parents,2,53,female,womens' guild
+2,10,other,2,53,female,womens' guild
+2,11,,1,53,female,womens' guild
+2,12,,1,53,female,womens' guild
+2,13,,1,53,female,womens' guild
+2,14,Christian education,1,53,female,womens' guild
+2,14,Health Ministry,1,53,female,womens' guild
+2,14,Deaf Ministry,2,53,female,womens' guild
+2,14,Evangelism,2,53,female,womens' guild
+2,14,Children Ministry,1,53,female,womens' guild
+2,14,Choir Ministry,1,53,female,womens' guild
+2,14,Ushering Ministry,1,53,female,womens' guild
+2,15,,1,53,female,womens' guild
+2,16,,2,53,female,womens' guild
+2,17,,,53,female,womens' guild
+1,1,A blessing,2,49,female,
+1,1,Encouraging,1,49,female,
+1,1,Educative,2,49,female,
+1,2,Relevant,1,49,female,
+1,2,Not Useful,2,49,female,
+1,2,Well Prepared,2,49,female,
+1,2,Boring,2,49,female,
+1,3,Good,1,49,female,
+1,3,Edifying,2,49,female,
+1,4,,2,49,female,
+2,5,,3,49,female,
+2,6,,3,49,female,
+2,7,,3,49,female,
+2,8,,3,49,female,
+2,9,,2,49,female,
+2,10,Widows,3,49,female,
+2,10,Widowers,3,49,female,
+2,10,Retirees,3,49,female,
+2,10,Single Parents,2,49,female,
+2,10,other,2,49,female,
+2,11,,2,49,female,
+2,12,,3,49,female,
+2,13,,2,49,female,
+2,14,Christian education,2,49,female,
+2,14,Health Ministry,2,49,female,
+2,14,Deaf Ministry,2,49,female,
+2,14,Evangelism,2,49,female,
+2,14,Children Ministry,2,49,female,
+2,14,Choir Ministry,2,49,female,
+2,14,Ushering Ministry,2,49,female,
+2,15,,1,49,female,
+2,16,,3,49,female,
+2,17,,,49,female,
+1,1,A blessing,1,56,female,
+1,1,Encouraging,2,56,female,
+1,1,Educative,2,56,female,
+1,2,Relevant,2,56,female,
+1,2,Not Useful,2,56,female,
+1,2,Well Prepared,1,56,female,
+1,2,Boring,2,56,female,
+1,3,Good,1,56,female,
+1,3,Edifying,2,56,female,
+1,4,,1,56,female,
+2,5,,2,56,female,
+2,6,,1,56,female,
+2,7,,3,56,female,
+2,8,,1,56,female,
+2,9,,2,56,female,
+2,10,Widows,2,56,female,
+2,10,Widowers,2,56,female,
+2,10,Retirees,2,56,female,
+2,10,Single Parents,2,56,female,
+2,10,other,2,56,female,
+2,11,,2,56,female,
+2,12,,2,56,female,
+2,13,,1,56,female,
+2,14,Christian education,1,56,female,
+2,14,Health Ministry,1,56,female,
+2,14,Deaf Ministry,1,56,female,
+2,14,Evangelism,1,56,female,
+2,14,Children Ministry,1,56,female,
+2,14,Choir Ministry,1,56,female,
+2,14,Ushering Ministry,1,56,female,
+2,15,,2,56,female,
+2,16,,2,56,female,
+2,17,,,56,female,
+1,1,A blessing,1,46,female,womens' guild
+1,1,Encouraging,1,46,female,womens' guild
+1,1,Educative,1,46,female,womens' guild
+1,2,Relevant,1,46,female,womens' guild
+1,2,Not Useful,3,46,female,womens' guild
+1,2,Well Prepared,1,46,female,womens' guild
+1,2,Boring,3,46,female,womens' guild
+1,3,Good,1,46,female,womens' guild
+1,3,Edifying,2,46,female,womens' guild
+1,4,,2,46,female,womens' guild
+2,5,,2,46,female,womens' guild
+2,6,,3,46,female,womens' guild
+2,7,,2,46,female,womens' guild
+2,8,,2,46,female,womens' guild
+2,9,,1,46,female,womens' guild
+2,10,Widows,2,46,female,womens' guild
+2,10,Widowers,3,46,female,womens' guild
+2,10,Retirees,3,46,female,womens' guild
+2,10,Single Parents,2,46,female,womens' guild
+2,10,other,1,46,female,womens' guild
+2,11,,2,46,female,womens' guild
+2,12,,1,46,female,womens' guild
+2,13,,2,46,female,womens' guild
+2,14,Christian education,2,46,female,womens' guild
+2,14,Health Ministry,2,46,female,womens' guild
+2,14,Deaf Ministry,1,46,female,womens' guild
+2,14,Evangelism,2,46,female,womens' guild
+2,14,Children Ministry,1,46,female,womens' guild
+2,14,Choir Ministry,2,46,female,womens' guild
+2,14,Ushering Ministry,2,46,female,womens' guild
+2,15,,2,46,female,womens' guild
+2,16,,1,46,female,womens' guild
+2,17,,,46,female,womens' guild
+1,1,A blessing,1,50,male,PCMF
+1,1,Encouraging,1,50,male,PCMF
+1,1,Educative,1,50,male,PCMF
+1,2,Relevant,1,50,male,PCMF
+1,2,Not Useful,2,50,male,PCMF
+1,2,Well Prepared,1,50,male,PCMF
+1,2,Boring,2,50,male,PCMF
+1,3,Good,1,50,male,PCMF
+1,3,Edifying,1,50,male,PCMF
+1,4,,1,50,male,PCMF
+2,5,,1,50,male,PCMF
+2,6,,1,50,male,PCMF
+2,7,,2,50,male,PCMF
+2,8,,2,50,male,PCMF
+2,9,,1,50,male,PCMF
+2,10,Widows,2,50,male,PCMF
+2,10,Widowers,2,50,male,PCMF
+2,10,Retirees,2,50,male,PCMF
+2,10,Single Parents,1,50,male,PCMF
+2,10,other,2,50,male,PCMF
+2,11,,1,50,male,PCMF
+2,12,,2,50,male,PCMF
+2,13,,3,50,male,PCMF
+2,14,Christian education,1,50,male,PCMF
+2,14,Health Ministry,1,50,male,PCMF
+2,14,Deaf Ministry,1,50,male,PCMF
+2,14,Evangelism,2,50,male,PCMF
+2,14,Children Ministry,2,50,male,PCMF
+2,14,Choir Ministry,1,50,male,PCMF
+2,14,Ushering Ministry,2,50,male,PCMF
+2,15,,1,50,male,PCMF
+2,16,,1,50,male,PCMF
+2,17,,,50,male,PCMF
+1,1,A blessing,1,40,male,PCMF
+1,1,Encouraging,1,40,male,PCMF
+1,1,Educative,1,40,male,PCMF
+1,2,Relevant,1,40,male,PCMF
+1,2,Not Useful,3,40,male,PCMF
+1,2,Well Prepared,1,40,male,PCMF
+1,2,Boring,3,40,male,PCMF
+1,3,Good,1,40,male,PCMF
+1,3,Edifying,2,40,male,PCMF
+1,4,,2,40,male,PCMF
+2,5,,2,40,male,PCMF
+2,6,,3,40,male,PCMF
+2,7,,2,40,male,PCMF
+2,8,,2,40,male,PCMF
+2,9,,1,40,male,PCMF
+2,10,Widows,2,40,male,PCMF
+2,10,Widowers,2,40,male,PCMF
+2,10,Retirees,3,40,male,PCMF
+2,10,Single Parents,3,40,male,PCMF
+2,10,other,1,40,male,PCMF
+2,11,,1,40,male,PCMF
+2,12,,1,40,male,PCMF
+2,13,,3,40,male,PCMF
+2,14,Christian education,2,40,male,PCMF
+2,14,Health Ministry,2,40,male,PCMF
+2,14,Deaf Ministry,2,40,male,PCMF
+2,14,Evangelism,2,40,male,PCMF
+2,14,Children Ministry,3,40,male,PCMF
+2,14,Choir Ministry,2,40,male,PCMF
+2,14,Ushering Ministry,1,40,male,PCMF
+2,15,,2,40,male,PCMF
+2,16,,2,40,male,PCMF
+2,17,,,40,male,PCMF
+1,1,A blessing,1,31,female,
+1,1,Encouraging,1,31,female,
+1,1,Educative,1,31,female,
+1,2,Relevant,1,31,female,
+1,2,Not Useful,2,31,female,
+1,2,Well Prepared,1,31,female,
+1,2,Boring,3,31,female,
+1,3,Good,1,31,female,
+1,3,Edifying,1,31,female,
+1,4,,2,31,female,
+2,5,,1,31,female,
+2,6,,2,31,female,
+2,7,,2,31,female,
+2,8,,1,31,female,
+2,9,,1,31,female,
+2,10,Widows,3,31,female,
+2,10,Widowers,3,31,female,
+2,10,Retirees,3,31,female,
+2,10,Single Parents,3,31,female,
+2,10,other,3,31,female,
+2,11,,1,31,female,
+2,12,,2,31,female,
+2,13,,2,31,female,
+2,14,Christian education,2,31,female,
+2,14,Health Ministry,2,31,female,
+2,14,Deaf Ministry,1,31,female,
+2,14,Evangelism,1,31,female,
+2,14,Children Ministry,1,31,female,
+2,14,Choir Ministry,1,31,female,
+2,14,Ushering Ministry,1,31,female,
+2,15,,2,31,female,
+2,16,,3,31,female,
+2,17,,,31,female,
+1,1,A blessing,1,49,female,womens' guild
+1,1,Encouraging,2,49,female,womens' guild
+1,1,Educative,2,49,female,womens' guild
+1,2,Relevant,1,49,female,womens' guild
+1,2,Not Useful,2,49,female,womens' guild
+1,2,Well Prepared,2,49,female,womens' guild
+1,2,Boring,2,49,female,womens' guild
+1,3,Good,1,49,female,womens' guild
+1,3,Edifying,2,49,female,womens' guild
+1,4,,2,49,female,womens' guild
+2,5,,1,49,female,womens' guild
+2,6,,1,49,female,womens' guild
+2,7,,1,49,female,womens' guild
+2,8,,2,49,female,womens' guild
+2,9,,1,49,female,womens' guild
+2,10,Widows,1,49,female,womens' guild
+2,10,Widowers,1,49,female,womens' guild
+2,10,Retirees,1,49,female,womens' guild
+2,10,Single Parents,1,49,female,womens' guild
+2,10,other,2,49,female,womens' guild
+2,11,,1,49,female,womens' guild
+2,12,,1,49,female,womens' guild
+2,13,,1,49,female,womens' guild
+2,14,Christian education,1,49,female,womens' guild
+2,14,Health Ministry,2,49,female,womens' guild
+2,14,Deaf Ministry,2,49,female,womens' guild
+2,14,Evangelism,2,49,female,womens' guild
+2,14,Children Ministry,2,49,female,womens' guild
+2,14,Choir Ministry,2,49,female,womens' guild
+2,14,Ushering Ministry,2,49,female,womens' guild
+2,15,,1,49,female,womens' guild
+2,16,,1,49,female,womens' guild
+2,17,,,49,female,womens' guild
+1,1,A blessing,2,56,male,PCMF
+1,1,Encouraging,1,56,male,PCMF
+1,1,Educative,1,56,male,PCMF
+1,2,Relevant,1,56,male,PCMF
+1,2,Not Useful,3,56,male,PCMF
+1,2,Well Prepared,1,56,male,PCMF
+1,2,Boring,3,56,male,PCMF
+1,3,Good,1,56,male,PCMF
+1,3,Edifying,1,56,male,PCMF
+1,4,,2,56,male,PCMF
+2,5,,2,56,male,PCMF
+2,6,,2,56,male,PCMF
+2,7,,1,56,male,PCMF
+2,8,,2,56,male,PCMF
+2,9,,1,56,male,PCMF
+2,10,Widows,2,56,male,PCMF
+2,10,Widowers,2,56,male,PCMF
+2,10,Retirees,2,56,male,PCMF
+2,10,Single Parents,2,56,male,PCMF
+2,10,other,2,56,male,PCMF
+2,11,,1,56,male,PCMF
+2,12,,1,56,male,PCMF
+2,13,,2,56,male,PCMF
+2,14,Christian education,1,56,male,PCMF
+2,14,Health Ministry,2,56,male,PCMF
+2,14,Deaf Ministry,1,56,male,PCMF
+2,14,Evangelism,1,56,male,PCMF
+2,14,Children Ministry,2,56,male,PCMF
+2,14,Choir Ministry,1,56,male,PCMF
+2,14,Ushering Ministry,2,56,male,PCMF
+2,15,,1,56,male,PCMF
+2,16,,2,56,male,PCMF
+2,17,,,56,male,PCMF
+1,1,A blessing,1,59,male,PCMF
+1,1,Encouraging,2,59,male,PCMF
+1,1,Educative,2,59,male,PCMF
+1,2,Relevant,1,59,male,PCMF
+1,2,Not Useful,2,59,male,PCMF
+1,2,Well Prepared,2,59,male,PCMF
+1,2,Boring,2,59,male,PCMF
+1,3,Good,1,59,male,PCMF
+1,3,Edifying,2,59,male,PCMF
+1,4,,2,59,male,PCMF
+2,5,,2,59,male,PCMF
+2,6,,2,59,male,PCMF
+2,7,,1,59,male,PCMF
+2,8,,2,59,male,PCMF
+2,9,,1,59,male,PCMF
+2,10,Widows,2,59,male,PCMF
+2,10,Widowers,2,59,male,PCMF
+2,10,Retirees,2,59,male,PCMF
+2,10,Single Parents,2,59,male,PCMF
+2,10,other,2,59,male,PCMF
+2,11,,2,59,male,PCMF
+2,12,,2,59,male,PCMF
+2,13,,2,59,male,PCMF
+2,14,Christian education,1,59,male,PCMF
+2,14,Health Ministry,2,59,male,PCMF
+2,14,Deaf Ministry,1,59,male,PCMF
+2,14,Evangelism,2,59,male,PCMF
+2,14,Children Ministry,2,59,male,PCMF
+2,14,Choir Ministry,1,59,male,PCMF
+2,14,Ushering Ministry,1,59,male,PCMF
+2,15,,1,59,male,PCMF
+2,16,,1,59,male,PCMF
+2,17,,,59,male,PCMF
+1,1,A blessing,1,50,male,
+1,1,Encouraging,1,50,male,
+1,1,Educative,1,50,male,
+1,2,Relevant,2,50,male,
+1,2,Not Useful,2,50,male,
+1,2,Well Prepared,1,50,male,
+1,2,Boring,3,50,male,
+1,3,Good,1,50,male,
+1,3,Edifying,2,50,male,
+1,4,,1,50,male,
+2,5,,1,50,male,
+2,6,,1,50,male,
+2,7,,1,50,male,
+2,8,,1,50,male,
+2,9,,2,50,male,
+2,10,Widows,2,50,male,
+2,10,Widowers,2,50,male,
+2,10,Retirees,2,50,male,
+2,10,Single Parents,2,50,male,
+2,10,other,1,50,male,
+2,11,,1,50,male,
+2,12,,1,50,male,
+2,13,,2,50,male,
+2,14,Christian education,2,50,male,
+2,14,Health Ministry,2,50,male,
+2,14,Deaf Ministry,1,50,male,
+2,14,Evangelism,2,50,male,
+2,14,Children Ministry,1,50,male,
+2,14,Choir Ministry,1,50,male,
+2,14,Ushering Ministry,1,50,male,
+2,15,,1,50,male,
+2,16,,2,50,male,
+2,17,,,50,male,
+1,1,A blessing,1,85,male,PCMF
+1,1,Encouraging,1,85,male,PCMF
+1,1,Educative,1,85,male,PCMF
+1,2,Relevant,2,85,male,PCMF
+1,2,Not Useful,3,85,male,PCMF
+1,2,Well Prepared,1,85,male,PCMF
+1,2,Boring,2,85,male,PCMF
+1,3,Good,1,85,male,PCMF
+1,3,Edifying,1,85,male,PCMF
+1,4,,2,85,male,PCMF
+2,5,,1,85,male,PCMF
+2,6,,2,85,male,PCMF
+2,7,,2,85,male,PCMF
+2,8,,1,85,male,PCMF
+2,9,,2,85,male,PCMF
+2,10,Widows,2,85,male,PCMF
+2,10,Widowers,2,85,male,PCMF
+2,10,Retirees,2,85,male,PCMF
+2,10,Single Parents,2,85,male,PCMF
+2,10,other,2,85,male,PCMF
+2,11,,1,85,male,PCMF
+2,12,,1,85,male,PCMF
+2,13,,2,85,male,PCMF
+2,14,Christian education,2,85,male,PCMF
+2,14,Health Ministry,2,85,male,PCMF
+2,14,Deaf Ministry,1,85,male,PCMF
+2,14,Evangelism,2,85,male,PCMF
+2,14,Children Ministry,1,85,male,PCMF
+2,14,Choir Ministry,1,85,male,PCMF
+2,14,Ushering Ministry,1,85,male,PCMF
+2,15,,2,85,male,PCMF
+2,16,,2,85,male,PCMF
+2,17,,,85,male,PCMF
+1,1,A blessing,1,45,male,
+1,1,Encouraging,1,45,male,
+1,1,Educative,1,45,male,
+1,2,Relevant,2,45,male,
+1,2,Not Useful,3,45,male,
+1,2,Well Prepared,1,45,male,
+1,2,Boring,2,45,male,
+1,3,Good,1,45,male,
+1,3,Edifying,1,45,male,
+1,4,,2,45,male,
+2,5,,1,45,male,
+2,6,,2,45,male,
+2,7,,2,45,male,
+2,8,,1,45,male,
+2,9,,2,45,male,
+2,10,Widows,2,45,male,
+2,10,Widowers,2,45,male,
+2,10,Retirees,2,45,male,
+2,10,Single Parents,2,45,male,
+2,10,other,2,45,male,
+2,11,,1,45,male,
+2,12,,1,45,male,
+2,13,,2,45,male,
+2,14,Christian education,2,45,male,
+2,14,Health Ministry,2,45,male,
+2,14,Deaf Ministry,1,45,male,
+2,14,Evangelism,2,45,male,
+2,14,Children Ministry,1,45,male,
+2,14,Choir Ministry,1,45,male,
+2,14,Ushering Ministry,1,45,male,
+2,15,,2,45,male,
+2,16,,2,45,male,
+2,17,,,45,male,
+1,1,A blessing,1,31,female,Praise & Worship
+1,1,Encouraging,1,31,female,Praise & Worship
+1,1,Educative,1,31,female,Praise & Worship
+1,2,Relevant,1,31,female,Praise & Worship
+1,2,Not Useful,1,31,female,Praise & Worship
+1,2,Well Prepared,1,31,female,Praise & Worship
+1,2,Boring,2,31,female,Praise & Worship
+1,3,Good,1,31,female,Praise & Worship
+1,3,Edifying,1,31,female,Praise & Worship
+1,4,,1,31,female,Praise & Worship
+2,5,,1,31,female,Praise & Worship
+2,6,,2,31,female,Praise & Worship
+2,7,,2,31,female,Praise & Worship
+2,8,,1,31,female,Praise & Worship
+2,9,,1,31,female,Praise & Worship
+2,10,Widows,1,31,female,Praise & Worship
+2,10,Widowers,1,31,female,Praise & Worship
+2,10,Retirees,2,31,female,Praise & Worship
+2,10,Single Parents,2,31,female,Praise & Worship
+2,10,other,2,31,female,Praise & Worship
+2,11,,1,31,female,Praise & Worship
+2,12,,1,31,female,Praise & Worship
+2,13,,2,31,female,Praise & Worship
+2,14,Christian education,2,31,female,Praise & Worship
+2,14,Health Ministry,2,31,female,Praise & Worship
+2,14,Deaf Ministry,2,31,female,Praise & Worship
+2,14,Evangelism,2,31,female,Praise & Worship
+2,14,Children Ministry,1,31,female,Praise & Worship
+2,14,Choir Ministry,2,31,female,Praise & Worship
+2,14,Ushering Ministry,2,31,female,Praise & Worship
+2,15,,1,31,female,Praise & Worship
+2,16,,2,31,female,Praise & Worship
+2,17,,,31,female,Praise & Worship
+1,1,A blessing,1,43,Female,Womens' Guild
+1,1,Encouraging,2,43,Female,Womens' Guild
+1,1,Educative,2,43,Female,Womens' Guild
+1,2,Relevant,1,43,Female,Womens' Guild
+1,2,Not Useful,2,43,Female,Womens' Guild
+1,2,Well Prepared,2,43,Female,Womens' Guild
+1,2,Boring,2,43,Female,Womens' Guild
+1,3,Good,1,43,Female,Womens' Guild
+1,3,Edifying,2,43,Female,Womens' Guild
+1,4,,1,43,Female,Womens' Guild
+2,5,,1,43,Female,Womens' Guild
+2,6,,1,43,Female,Womens' Guild
+2,7,,1,43,Female,Womens' Guild
+2,8,,1,43,Female,Womens' Guild
+2,9,,1,43,Female,Womens' Guild
+2,10,Widows,2,43,Female,Womens' Guild
+2,10,Widowers,2,43,Female,Womens' Guild
+2,10,Retirees,2,43,Female,Womens' Guild
+2,10,Single Parents,2,43,Female,Womens' Guild
+2,10,other,2,43,Female,Womens' Guild
+2,11,,2,43,Female,Womens' Guild
+2,12,,1,43,Female,Womens' Guild
+2,13,,2,43,Female,Womens' Guild
+2,14,Christian education,1,43,Female,Womens' Guild
+2,14,Health Ministry,,43,Female,Womens' Guild
+2,14,Deaf Ministry,3,43,Female,Womens' Guild
+2,14,Evangelism,1,43,Female,Womens' Guild
+2,14,Children Ministry,1,43,Female,Womens' Guild
+2,14,Choir Ministry,1,43,Female,Womens' Guild
+2,14,Ushering Ministry,1,43,Female,Womens' Guild
+2,15,,2,43,Female,Womens' Guild
+2,16,,2,43,Female,Womens' Guild
+2,17,,,43,Female,Womens' Guild
+1,1,A blessing,1,37,male,
+1,1,Encouraging,1,37,male,
+1,1,Educative,1,37,male,
+1,2,Relevant,1,37,male,
+1,2,Not Useful,2,37,male,
+1,2,Well Prepared,1,37,male,
+1,2,Boring,2,37,male,
+1,3,Good,1,37,male,
+1,3,Edifying,2,37,male,
+1,4,,1,37,male,
+2,5,,1,37,male,
+2,6,,2,37,male,
+2,7,,2,37,male,
+2,8,,1,37,male,
+2,9,,1,37,male,
+2,10,Widows,2,37,male,
+2,10,Widowers,2,37,male,
+2,10,Retirees,2,37,male,
+2,10,Single Parents,2,37,male,
+2,10,other,2,37,male,
+2,11,,1,37,male,
+2,12,,1,37,male,
+2,13,,1,37,male,
+2,14,Christian education,2,37,male,
+2,14,Health Ministry,1,37,male,
+2,14,Deaf Ministry,1,37,male,
+2,14,Evangelism,1,37,male,
+2,14,Children Ministry,2,37,male,
+2,14,Choir Ministry,2,37,male,
+2,14,Ushering Ministry,2,37,male,
+2,15,,1,37,male,
+2,16,,1,37,male,
+2,17,,,37,male,
+1,1,A blessing,1,36,Female,womens' guild
+1,1,Encouraging,1,36,Female,womens' guild
+1,1,Educative,1,36,Female,womens' guild
+1,2,Relevant,1,36,Female,womens' guild
+1,2,Not Useful,3,36,Female,womens' guild
+1,2,Well Prepared,1,36,Female,womens' guild
+1,2,Boring,3,36,Female,womens' guild
+1,3,Good,1,36,Female,womens' guild
+1,3,Edifying,2,36,Female,womens' guild
+1,4,,3,36,Female,womens' guild
+2,5,,1,36,Female,womens' guild
+2,6,,3,36,Female,womens' guild
+2,7,,3,36,Female,womens' guild
+2,8,,3,36,Female,womens' guild
+2,9,,1,36,Female,womens' guild
+2,10,Widows,2,36,Female,womens' guild
+2,10,Widowers,2,36,Female,womens' guild
+2,10,Retirees,2,36,Female,womens' guild
+2,10,Single Parents,2,36,Female,womens' guild
+2,10,other,2,36,Female,womens' guild
+2,11,,1,36,Female,womens' guild
+2,12,,2,36,Female,womens' guild
+2,13,,2,36,Female,womens' guild
+2,14,Christian education,1,36,Female,womens' guild
+2,14,Health Ministry,2,36,Female,womens' guild
+2,14,Deaf Ministry,1,36,Female,womens' guild
+2,14,Evangelism,2,36,Female,womens' guild
+2,14,Children Ministry,1,36,Female,womens' guild
+2,14,Choir Ministry,2,36,Female,womens' guild
+2,14,Ushering Ministry,1,36,Female,womens' guild
+2,15,,2,36,Female,womens' guild
+2,16,,2,36,Female,womens' guild
+2,17,,,36,Female,womens' guild
+1,1,A blessing,1,53,Female,Womens' Guild
+1,1,Encouraging,1,53,Female,Womens' Guild
+1,1,Educative,1,53,Female,Womens' Guild
+1,2,Relevant,1,53,Female,Womens' Guild
+1,2,Not Useful,3,53,Female,Womens' Guild
+1,2,Well Prepared,2,53,Female,Womens' Guild
+1,2,Boring,2,53,Female,Womens' Guild
+1,3,Good,1,53,Female,Womens' Guild
+1,3,Edifying,2,53,Female,Womens' Guild
+1,4,,2,53,Female,Womens' Guild
+2,5,,1,53,Female,Womens' Guild
+2,6,,3,53,Female,Womens' Guild
+2,7,,3,53,Female,Womens' Guild
+2,8,,2,53,Female,Womens' Guild
+2,9,,2,53,Female,Womens' Guild
+2,10,Widows,3,53,Female,Womens' Guild
+2,10,Widowers,3,53,Female,Womens' Guild
+2,10,Retirees,3,53,Female,Womens' Guild
+2,10,Single Parents,3,53,Female,Womens' Guild
+2,10,other,3,53,Female,Womens' Guild
+2,11,,1,53,Female,Womens' Guild
+2,12,,2,53,Female,Womens' Guild
+2,13,,3,53,Female,Womens' Guild
+2,14,Christian education,1,53,Female,Womens' Guild
+2,14,Health Ministry,2,53,Female,Womens' Guild
+2,14,Deaf Ministry,1,53,Female,Womens' Guild
+2,14,Evangelism,2,53,Female,Womens' Guild
+2,14,Children Ministry,2,53,Female,Womens' Guild
+2,14,Choir Ministry,2,53,Female,Womens' Guild
+2,14,Ushering Ministry,1,53,Female,Womens' Guild
+2,15,,2,53,Female,Womens' Guild
+2,16,,3,53,Female,Womens' Guild
+2,17,,,53,Female,Womens' Guild
+1,1,A blessing,1,47,male,PCMF
+1,1,Encouraging,2,47,male,PCMF
+1,1,Educative,1,47,male,PCMF
+1,2,Relevant,1,47,male,PCMF
+1,2,Not Useful,2,47,male,PCMF
+1,2,Well Prepared,1,47,male,PCMF
+1,2,Boring,2,47,male,PCMF
+1,3,Good,1,47,male,PCMF
+1,3,Edifying,1,47,male,PCMF
+1,4,,2,47,male,PCMF
+2,5,,2,47,male,PCMF
+2,6,,2,47,male,PCMF
+2,7,,2,47,male,PCMF
+2,8,,2,47,male,PCMF
+2,9,,1,47,male,PCMF
+2,10,Widows,2,47,male,PCMF
+2,10,Widowers,3,47,male,PCMF
+2,10,Retirees,3,47,male,PCMF
+2,10,Single Parents,2,47,male,PCMF
+2,10,other,3,47,male,PCMF
+2,11,,2,47,male,PCMF
+2,12,,2,47,male,PCMF
+2,13,,2,47,male,PCMF
+2,14,Christian education,1,47,male,PCMF
+2,14,Health Ministry,1,47,male,PCMF
+2,14,Deaf Ministry,2,47,male,PCMF
+2,14,Evangelism,1,47,male,PCMF
+2,14,Children Ministry,2,47,male,PCMF
+2,14,Choir Ministry,2,47,male,PCMF
+2,14,Ushering Ministry,2,47,male,PCMF
+2,15,,2,47,male,PCMF
+2,16,,2,47,male,PCMF
+2,17,,,47,male,PCMF
+1,1,A blessing,1,40,female,
+1,1,Encouraging,2,40,female,
+1,1,Educative,2,40,female,
+1,2,Relevant,2,40,female,
+1,2,Not Useful,2,40,female,
+1,2,Well Prepared,1,40,female,
+1,2,Boring,2,40,female,
+1,3,Good,1,40,female,
+1,3,Edifying,2,40,female,
+1,4,,2,40,female,
+2,5,,2,40,female,
+2,6,,1,40,female,
+2,7,,1,40,female,
+2,8,,1,40,female,
+2,9,,1,40,female,
+2,10,Widows,1,40,female,
+2,10,Widowers,2,40,female,
+2,10,Retirees,1,40,female,
+2,10,Single Parents,2,40,female,
+2,10,other,2,40,female,
+2,11,,2,40,female,
+2,12,,2,40,female,
+2,13,,2,40,female,
+2,14,Christian education,2,40,female,
+2,14,Health Ministry,2,40,female,
+2,14,Deaf Ministry,2,40,female,
+2,14,Evangelism,1,40,female,
+2,14,Children Ministry,1,40,female,
+2,14,Choir Ministry,2,40,female,
+2,14,Ushering Ministry,2,40,female,
+2,15,,1,40,female,
+2,16,,2,40,female,
+2,17,,,40,female,
+1,1,A blessing,1,53,male,PCMF
+1,1,Encouraging,1,53,male,PCMF
+1,1,Educative,1,53,male,PCMF
+1,2,Relevant,1,53,male,PCMF
+1,2,Not Useful,2,53,male,PCMF
+1,2,Well Prepared,1,53,male,PCMF
+1,2,Boring,2,53,male,PCMF
+1,3,Good,1,53,male,PCMF
+1,3,Edifying,2,53,male,PCMF
+1,4,,2,53,male,PCMF
+2,5,,1,53,male,PCMF
+2,6,,1,53,male,PCMF
+2,7,,1,53,male,PCMF
+2,8,,1,53,male,PCMF
+2,9,,1,53,male,PCMF
+2,10,Widows,1,53,male,PCMF
+2,10,Widowers,1,53,male,PCMF
+2,10,Retirees,2,53,male,PCMF
+2,10,Single Parents,1,53,male,PCMF
+2,10,other,2,53,male,PCMF
+2,11,,1,53,male,PCMF
+2,12,,1,53,male,PCMF
+2,13,,1,53,male,PCMF
+2,14,Christian education,1,53,male,PCMF
+2,14,Health Ministry,1,53,male,PCMF
+2,14,Deaf Ministry,1,53,male,PCMF
+2,14,Evangelism,1,53,male,PCMF
+2,14,Children Ministry,1,53,male,PCMF
+2,14,Choir Ministry,1,53,male,PCMF
+2,14,Ushering Ministry,1,53,male,PCMF
+2,15,,1,53,male,PCMF
+2,16,,1,53,male,PCMF
+2,17,,,53,male,PCMF
+1,1,A blessing,1,55,female,
+1,1,Encouraging,1,55,female,
+1,1,Educative,1,55,female,
+1,2,Relevant,1,55,female,
+1,2,Not Useful,2,55,female,
+1,2,Well Prepared,1,55,female,
+1,2,Boring,2,55,female,
+1,3,Good,1,55,female,
+1,3,Edifying,2,55,female,
+1,4,,2,55,female,
+2,5,,2,55,female,
+2,6,,1,55,female,
+2,7,,2,55,female,
+2,8,,1,55,female,
+2,9,,1,55,female,
+2,10,Widows,2,55,female,
+2,10,Widowers,2,55,female,
+2,10,Retirees,2,55,female,
+2,10,Single Parents,2,55,female,
+2,10,other,2,55,female,
+2,11,,1,55,female,
+2,12,,1,55,female,
+2,13,,1,55,female,
+2,14,Christian education,2,55,female,
+2,14,Health Ministry,1,55,female,
+2,14,Deaf Ministry,1,55,female,
+2,14,Evangelism,1,55,female,
+2,14,Children Ministry,2,55,female,
+2,14,Choir Ministry,2,55,female,
+2,14,Ushering Ministry,1,55,female,
+2,15,,1,55,female,
+2,16,,2,55,female,
+2,17,,,55,female,
